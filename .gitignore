@@ -1,4 +1,11 @@
-#Ignore build artifacts	and netbeans project files
+# Ignore build artifacts, netbeans project files, and other temporary files
+build.xml
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/project.properties
+nbproject/project.xml
+username.txt
+*.txt
 build/
 nbproject/private/
 /dist/
