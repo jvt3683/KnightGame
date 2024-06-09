@@ -46,3 +46,9 @@ os.arch=amd64
 os.version=10.0
 derby.system.home=C:\Users\Ethan\Documents\NetBeansProjects\KnightGame\lib
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jun 09 17:23:56 NZST 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Jun 09 17:23:56 NZST 2024:
+Shutting down instance bc9ec0ce-018f-fb47-6627-00002813ecf1 on database directory C:\Users\Ethan\Documents\NetBeansProjects\KnightGame\lib\knightGame with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 
+----------------------------------------------------------------
