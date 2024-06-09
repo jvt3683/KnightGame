@@ -1,0 +1,3 @@
+#Ignore build artifacts	and netbeans project files
+build/
+nbproject/private/
